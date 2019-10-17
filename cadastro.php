@@ -16,7 +16,7 @@
 
     if (pg_num_rows($loginigual)==1){
 
-        header("Location:conexao.html");
+        header("Location:telacadastro.html");
     
     
 
